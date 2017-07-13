@@ -4,7 +4,7 @@
 - *Authors*: Daniel Lenz, Brandon S. Hensley, Olivier Doré
 
 [![Publication](http://img.shields.io/badge/arXiv-1604.06667-blue.svg)](https://arxiv.org/abs/1706.00011)
-[![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://www.github.com/DanielLenz/ebv_tools/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://www.github.com/DanielLenz/ebv_tools/blob/master/LICENSE)
 
 # Purpose
 
